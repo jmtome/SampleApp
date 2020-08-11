@@ -27,8 +27,8 @@
 ### Sites for the API Requests
 
 - [x] Users - https://jsonplaceholder.typicode.com/users
-- [x] Posts - Users - https://jsonplaceholder.typicode.com/posts
-- [x] Comments - Users - https://jsonplaceholder.typicode.com/comments
+- [x] Posts - https://jsonplaceholder.typicode.com/posts
+- [x] Comments - https://jsonplaceholder.typicode.com/comments
 - [x] User Icon Images - https://avatars.adorable.io/
 
 <img src="animated.gif" width="400"/>
