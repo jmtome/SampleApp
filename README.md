@@ -31,4 +31,4 @@
 - [x] Comments - https://jsonplaceholder.typicode.com/comments
 - [x] User Icon Images - https://avatars.adorable.io/
 
-<img src="animated.gif" width="400"/>
+<img src="sampleapp.gif" width="400"/>
