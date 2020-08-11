@@ -22,7 +22,7 @@
 - [x] Programmatic UI with UIKit
 - [x] Generic network request manager
 - [x] 4 Screens serving as a detail in cascade
-
+- [x] Looks gorgeous on iPad too!
 
 ### Sites for the API Requests
 
